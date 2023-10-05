@@ -19,9 +19,8 @@ public class Principal {
     }
   
   public static void anadirAlumno(Alumno alu){
-      for(int i = 0; i > 5; i++){
           alumnos.add(alu);
-      }
+
   }
 
 }
